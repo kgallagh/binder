@@ -38,7 +38,7 @@ setuptools.setup(
     version="0.0.1",
     extras_require=EXTRAS_REQUIREMENTS,
     install_requires=[
-        "pyaml",
+        "flask",
     ],
     description="A scrap attachment application.",
     long_description=long_description,
